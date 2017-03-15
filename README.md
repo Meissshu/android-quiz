@@ -1,2 +1,2 @@
 # android-quiz
-Application created by book "Android Programming: The Big Nerd Ranch Guide"
+Application created by the book "Android Programming: The Big Nerd Ranch Guide"
